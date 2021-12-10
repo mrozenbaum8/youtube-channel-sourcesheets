@@ -1,0 +1,27 @@
+<---Terminal--->
+<ls> show files in current directory
+<cd> open folder
+<open> open file
+<mkdir> new folder
+<touch> new file
+<rm -R> delete
+
+<---Git and GitHub--->
+<git clone> download repository
+<git remote -v> show downloaded depository remote address
+<git status> depository status
+<git add> add file to staging area before commiting
+<git commit -m "comment here"> commit files to depository with comment
+<git log> view commit history
+<git push> Publish repository to github
+
+<---HTML--->
+<strong> bold
+<em> italics
+<!--comment-->
+<ul> unordered list
+<ol> ordered list
+<a href> links
+<./> Look for files relative to the current directory.
+<../> Look for files up the parent directory.
+! boilerplate template in vcode
