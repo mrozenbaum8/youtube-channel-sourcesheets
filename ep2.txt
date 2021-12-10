@@ -1,0 +1,31 @@
+My first few coding lessons
+HTML via Odin project as per Microverse precoursework
+
+Learned today
+HTML boilerplate
+Basic HTML elements
+HTML comments
+links and immages
+Intro to project
+
+Reminders
+<strong> bold
+<em> italics
+<!--comment-->
+<ul> unordered list
+<ol> ordered list
+<a href> links
+<./> Look for files relative to the current directory.
+<../> Look for files up the parent directory.
+
+
+Useful links
+<https://devdocs.io> API documentations in a fast, organized, and searchable interface
+<https://validator.w3.org> HTML validator.
+<https://github.com/kamranahmedse/developer-roadmap> 2021 developer roadmap.
+
+Quotes
+In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.
+
+Extracurriculars
+<https://www.visionary.ai/join-us> Found these internships on a coding break.

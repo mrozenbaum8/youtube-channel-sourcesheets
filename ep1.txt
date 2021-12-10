@@ -1,0 +1,50 @@
+1. My motivation for starting to code:
+    - My background. Current health situation.
+    - Because its the main industry of the future. If I want to make a positive and lasting impact in the world - anything having to do with the internet and technology has the influence for me to do that. Strive to distinguish good quality information from bad quality information.
+    - Do you want to have a fulfilling career that pays well?
+        - Talk about local job postings. Goals.
+    - Are you excited by the creative outlet programming provides?
+    - Are you determined to develop the skills and abilities to build any app you can think of?
+    - Motivation - this will be what pulls you through to the end of this journey, giving you a definitive goal to aim towards.
+2. I know it's going to be hard, that is why I'm documenting it.
+3. Mindset
+    1. Someone with the **fixed mindset** believes if they don’t get something on their first attempt, they never will.
+    2. Someone with the **growth mindset**believes they can get better at anything with effort and persistence.
+    3. There will be many times throughout The Odin Project that you will get stuck on a concept or a programming problem and may find yourself questioning your ability to learn programming. When you find yourself in this position, remind yourself that you may not get it *yet* but that with persistence and grit you will.
+    4. When learning, your mind will consistently switch between focus mode and diffuse mode. **Focus mode** occurs when you are consciously focusing on learning, reading, watching videos, or working on a project. **Diffuse mode**occurs subconsciously, at times when you are not actively learning, such as when you’re doing the dishes, exercising, or sleeping. In this state, your mind goes about the business of connecting what you have been learning to the other things you know. This is where breakthroughs happen.
+4. Time-management: Setting a schedule. The most important step.
+    1. I will set two blocks. One for my current videography business and one for my learning.
+    2. **Solution:** The [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is a way of managing your time in order to stay focused. The idea is to set a timer for 25 minutes and to work on a task until the timer goes off. If you get distracted or interrupted during the 25 minutes, start the 25 minutes of work over again. Once you’ve successfully focused on work for 25 minutes, take a 5 minute break. When your break is over, repeat the 25 minutes of work and 5 minute break. After you’ve completed four 25 minute blocks of work, take a longer 15-30 minute break.
+    3. Time slots are scheduled using focusmate.
+5. **Comparing Yourself to Others**
+6. Conclusion
+    1. Things I’ve meant so far
+        1. Terminal: [https://www.softcover.io/read/fc6c09de/unix_commands/basics](https://www.softcover.io/read/fc6c09de/unix_commands/basics)
+        2. Git and GitHub 
+        3. 
+7. List of resources I'm using to build my own curriculum.
+    1. Odin Project
+    2. Free codecamp
+    3. Microverse
+    4. [https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
+
+First day of progress
+
+Terminal shortcuts learned
+<ls> show files in current directory
+<cd> open folder
+<open> open file
+<mkdir> new folder
+<touch> new file
+<rm -R> delete
+
+Git shortcuts learned
+<git clone> download repository
+<git remote -v> show downloaded depository remote address
+<git status> depository status
+<git add> add file to staging area before commiting
+<git commit -m "comment here"> commit files to depository with comment
+<git log> view commit history
+<git push> Publish repository to github
+
+How to write good commit messages: https://cbea.ms/git-commit/
