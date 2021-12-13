@@ -5,6 +5,7 @@
 <mkdir> new folder
 <touch> new file
 <rm -R> delete
+<open -a "Visual Studio Code"> open files with vcode
 
 <---Git and GitHub--->
 <git clone> download repository
@@ -14,13 +15,17 @@
 <git commit -m "comment here"> commit files to depository with comment
 <git log> view commit history
 <git push> Publish repository to github
+<git add -A> add all untracked files
+<git remote -v> list existing remotes
+<git config -l> check configs of repository
 
 <---HTML--->
 <strong> bold
 <em> italics
 <!--comment-->
 <ul> unordered list
-<ol> ordered list
+<ol> ordered lis
+<li> list item
 <a href> links
 <./> Look for files relative to the current directory.
 <../> Look for files up the parent directory.
