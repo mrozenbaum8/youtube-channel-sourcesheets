@@ -38,5 +38,6 @@
 <.class{}> class selector
 <#id{}> class selector
 <selector1, selector2{}> group selectors
-
-
+<selector1.selector2> chain selectors. selects any element that has both.
+<.ancestor .contents {}> descendant combinator
+ID>Class>Type
