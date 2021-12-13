@@ -35,6 +35,8 @@
 <----CSS---->
 <*{}> universal selector
 <type{}> type selector
-<.class> class selector
-<#id> class selector
+<.class{}> class selector
+<#id{}> class selector
+<selector1, selector2{}> group selectors
+
 

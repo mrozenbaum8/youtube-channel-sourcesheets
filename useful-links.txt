@@ -2,6 +2,7 @@ mrozenbaum8's useful links
 
 <---My carreer interests--->
 Computer vision: https://www.visionary.ai/join-us
+AI-based Video Recognition: https://www.flymingo.net/about-us
 
 <---My learning interests-->
 Python: https://www.udemy.com/course/100-days-of-code/
