@@ -1,4 +1,4 @@
-<---Terminal--->
+<----Terminal---->
 <ls> show files in current directory
 <cd> open folder
 <open> open file
@@ -7,7 +7,8 @@
 <rm -R> delete
 <open -a "Visual Studio Code"> open files with vcode
 
-<---Git and GitHub--->
+<----Git and GitHub---->
+<git --version>
 <git clone> download repository
 <git remote -v> show downloaded depository remote address
 <git status> depository status
@@ -19,7 +20,7 @@
 <git remote -v> list existing remotes
 <git config -l> check configs of repository
 
-<---HTML--->
+<----HTML---->
 <strong> bold
 <em> italics
 <!--comment-->
@@ -30,3 +31,10 @@
 <./> Look for files relative to the current directory.
 <../> Look for files up the parent directory.
 ! boilerplate template in vcode
+
+<----CSS---->
+<*{}> universal selector
+<type{}> type selector
+<.class> class selector
+<#id> class selector
+
