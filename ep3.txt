@@ -1,3 +1,9 @@
+Practical things I've learned:
+The importance of a schedule.
+Balancing with extracurriculars.
+Work hard. Relax hard.
+
+Technical things I've learned:
 CSS long lesson
 selectors
 grouping selectors
@@ -8,3 +14,6 @@ specificity
 inheritance
 rule order
 external vs internal css
+
+Future:
+I've starting building my curriculum for once I finish my current one.
