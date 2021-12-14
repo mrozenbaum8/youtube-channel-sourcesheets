@@ -1,0 +1,10 @@
+CSS long lesson
+selectors
+grouping selectors
+chaining selectors
+combinators
+cascade of css
+specificity
+inheritance
+rule order
+external vs internal css
