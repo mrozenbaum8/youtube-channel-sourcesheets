@@ -3,11 +3,15 @@ mrozenbaum8's useful links
 <---My carreer interests--->
 Computer vision: https://www.visionary.ai/join-us
 AI-based Video Recognition: https://www.flymingo.net/about-us
+AI-powered video thumbnails: https://minute.ly
 
 <---My learning interests-->
 Python: https://www.udemy.com/course/100-days-of-code/
 Computer vision: https://www.pyimagesearch.com/start-here/
 Deep learning: https://www.udemy.com/course/computer-vision-a-z/?gclid=CjwKCAiA-9uNBhBTEiwAN3IlNMIj_S32kcw2-XGSoqpo0fzu5_xCrjjdKlFWIrEF1b8GpJu9WajUZhoCA14QAvD_BwE&matchtype=e&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_78754137973_._ad_535700228131_._kw_computer+vision+class_._de_c_._dm__._pl__._ti_kwd-823898374488_._li_1007978_._pd__._
+Data analytics: https://www.coursera.org/professional-certificates/google-data-analytics?ranMID=40328&ranEAID=9Dai7v38Rms&ranSiteID=9Dai7v38Rms-iN7N7pYReAcRb1SCV7cq6Q&siteID=9Dai7v38Rms-iN7N7pYReAcRb1SCV7cq6Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=9Dai7v38Rms
+Web Programming: https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming?index=product&queryID=2fb11d99dd37313f4e5b0b630f24ed81&position=1
+Artificial intelligence: https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence?index=product&queryID=2fb11d99dd37313f4e5b0b630f24ed81&position=2
 
 <----Motivation---->
 Coding success story: https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/

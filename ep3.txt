@@ -1,5 +1,6 @@
 Practical things I've learned:
-The importance of a scheduled blocks.
+Making this videos is helping me remember the material learned.
+The importance of a schedule with blocks of time.
 Balancing learning with extracurriculars.
 Learn hard. Relax hard. Hack to prevent or delay burnout. I still feel ecxited and looking forward to learning even after this relatively tough lesson.
 
@@ -13,7 +14,10 @@ cascade of css
 specificity
 inheritance
 rule order
-external vs internal css
+external(best) vs internal css vs inline
 
 Future:
 I've starting building my curriculum for once I finish my current one.
+
+episode 4
+talk about homework
