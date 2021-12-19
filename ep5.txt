@@ -8,8 +8,12 @@ Technical things I've learned:
 chrome devtools documentation
 the box model
 block vs inline boxes
-inner vs outer display types
-
+flex vs inline flex
+css box
+width and height
+padding
+border
+margin
 
 Future:
 I've starting building my curriculum for once I finish my current one.
