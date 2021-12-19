@@ -43,3 +43,5 @@
 <selector1.selector2> chain selectors. selects any element that has both.
 <.ancestor .contents {}> descendant combinator
 ID>Class>Type
+<display: block;> one box with width of 100% for whole line.
+<display: inline-block;> can set width via padding. can have multiple boxes per line.

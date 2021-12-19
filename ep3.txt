@@ -21,3 +21,4 @@ I've starting building my curriculum for once I finish my current one.
 
 episode 4
 talk about homework
+chrome devtools documentation
