@@ -31,6 +31,7 @@
 <./> Look for files relative to the current directory.
 <../> Look for files up the parent directory.
 ! boilerplate template in vcode
+<span> inline div
 
 <----CSS---->
 <link rel="stylesheet" href="styles.css"> external css
@@ -45,3 +46,5 @@
 ID>Class>Type
 <display: block;> one box with width of 100% for whole line.
 <display: inline-block;> can set width via padding. can have multiple boxes per line.
+Some HTML elements, such as <h1> and <p>, use block as their outer display type by default.
+Some HTML elements, such as <a>, <span>, <em> and <strong> use inline as their outer display type by default.
