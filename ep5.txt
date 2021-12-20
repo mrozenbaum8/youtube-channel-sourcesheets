@@ -7,7 +7,7 @@ Learn hard. Relax hard. Hack to prevent or delay burnout. I still feel ecxited a
 Technical things I've learned:
 chrome devtools
 the css box model
-block vs inline vs inline-block
+block vs inline vs inline-block (didn't get this after reading lesson so watched a video from kevin powell about it. link below.)
 flex vs inline flex
 css box
 width and height
@@ -17,7 +17,9 @@ margin
 standard vs border-box models
 shorthand vs longhand properties (width, height etc)
 margin collapsing: not the total of the two margins
-talk about homework
+talk about homework. was mind-scratching.
+
+in the next video we will be learnig about flex
 
 Future:
 I've starting building my curriculum for once I finish my current one.

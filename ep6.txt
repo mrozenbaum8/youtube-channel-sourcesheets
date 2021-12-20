@@ -1,0 +1,14 @@
+Practical things I've learned:
+Making this videos is helping me remember the material learned.
+The importance of a schedule with blocks of time.
+Balancing learning with extracurriculars.
+Learn hard. Relax hard. Hack to prevent or delay burnout. I still feel ecxited and looking forward to learning even after this relatively tough lesson.
+
+Technical things I've learned:
+Flexbox
+<display:flex;>Flex container
+any element can be both a flex container and a flex item
+
+Future:
+I've starting building my curriculum for once I finish my current one.
+Show some interesting options.
