@@ -17,6 +17,7 @@ margin
 standard vs border-box models
 shorthand vs longhand properties (width, height etc)
 margin collapsing: not the total of the two margins
+talk about homework
 
 Future:
 I've starting building my curriculum for once I finish my current one.
