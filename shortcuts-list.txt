@@ -48,3 +48,11 @@ ID>Class>Type
 <display: inline-block;> can set width via padding. can have multiple boxes per line.
 Some HTML elements, such as <h1> and <p>, use block as their outer display type by default.
 Some HTML elements, such as <a>, <span>, <em> and <strong> use inline as their outer display type by default.
+<.box{box-sizing: border-box;}> turn on alternative model for an element
+<html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}>set alternative model for all html and let other elements inherit the value.
+
