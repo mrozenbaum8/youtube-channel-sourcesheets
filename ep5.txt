@@ -5,8 +5,8 @@ Balancing learning with extracurriculars.
 Learn hard. Relax hard. Hack to prevent or delay burnout. I still feel ecxited and looking forward to learning even after this relatively tough lesson.
 
 Technical things I've learned:
-chrome devtools documentation
-the box model
+chrome devtools
+the css box model
 block vs inline vs inline-block
 flex vs inline flex
 css box
