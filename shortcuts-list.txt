@@ -19,6 +19,8 @@
 <git add -A> add all untracked files
 <git remote -v> list existing remotes
 <git config -l> check configs of repository
+<git diff filename> view changes to a file since previous commit
+<git add -p> add only part of a change to staging area
 
 <----HTML---->
 <strong> bold
@@ -55,4 +57,6 @@ Some HTML elements, such as <a>, <span>, <em> and <strong> use inline as their o
 *, *::before, *::after {
   box-sizing: inherit;
 }>set alternative model for all html and let other elements inherit the value.
-
+margin does not count towards box size
+<border-width; border-style; border-color;> multiple properties. these can be inline in one property.
+<span> Horizontal padding, margins, and borders are respected.
