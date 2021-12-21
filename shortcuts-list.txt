@@ -62,3 +62,5 @@ margin does not count towards box size
 <span> Horizontal padding, margins, and borders are respected.
 <display:flex;>flex container
 <flex:1;>flex items. can have flex within flex.
+Using auto as a flex-basis tells the item to check for a width declaration
+<flex-direction: column> change from default row direction
