@@ -9,6 +9,8 @@ Flexbox
 <display:flex;>Flex container
 any element can be both a flex container and a flex item
 
+the only easy homework was yesterday's. the only easy assignment was the previous one.
+
 Future:
 I've starting building my curriculum for once I finish my current one.
 Show some interesting options.

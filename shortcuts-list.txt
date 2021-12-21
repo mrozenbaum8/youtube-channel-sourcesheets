@@ -63,4 +63,7 @@ margin does not count towards box size
 <display:flex;>flex container
 <flex:1;>flex items. can have flex within flex.
 Using auto as a flex-basis tells the item to check for a width declaration
+<flex-grow>
+<flex-shrink>
+<flex-base>
 <flex-direction: column> change from default row direction
