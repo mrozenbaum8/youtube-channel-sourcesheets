@@ -63,8 +63,8 @@ margin does not count towards box size
 <display:flex; or display:inline-flex> flex container (inside of div / container)
 <flex:1;>flex items. can have flex within flex.
 Using auto as a flex-basis tells the item to check for a width declaration
-<flex-grow>
-<flex-shrink>
+<flex-grow> stretch item to fill available space in container
+<flex-shrink> can become smaller than the flex-basis
 <flex-basis> if set to auto then div size or content's size 
 <flex-direction: column> change from default row direction
 <justify-content> align itmes horizontally
