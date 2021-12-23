@@ -65,7 +65,7 @@ margin does not count towards box size
 Using auto as a flex-basis tells the item to check for a width declaration
 <flex-grow>
 <flex-shrink>
-<flex-basis> defines the size of the item in terms of the space it leaves as available space
+<flex-basis> if set to auto then div size or content's size 
 <flex-direction: column> change from default row direction
 <justify-content> align itmes horizontally
 <align-items> align items vertically
