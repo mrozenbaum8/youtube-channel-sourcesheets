@@ -67,3 +67,5 @@ Using auto as a flex-basis tells the item to check for a width declaration
 <flex-shrink>
 <flex-base>
 <flex-direction: column> change from default row direction
+<justify-content> align itmes horizontally
+<align-items> align items vertically

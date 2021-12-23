@@ -21,12 +21,15 @@ Algorithms: https://www.coursera.org/specializations/algorithms
 Computing: https://www.coursera.org/specializations/computer-fundamentals
 NLP: https://www.coursera.org/specializations/natural-language-processing
 BSc CS: https://www.coursera.org/degrees/bachelor-of-science-computer-science-london
+Web3
+Blockchain
 
 <---Research interests--->
 AI: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7387290/
 AI: https://www.youtube.com/watch?v=H5o_jIoEOTo
 AI: http://gamma.cs.unc.edu/REACH/CrowdT/
 Computer vision: https://www.youtube.com/watch?v=bcZFQ3f26pA
+AI: https://www.youtube.com/watch?v=YsEp2-59HjA
 
 <----Motivation---->
 Coding success story: https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/
@@ -41,3 +44,5 @@ https://devdocs.io/html/
 <----Git---->
 How to write good commit messages: https://cbea.ms/git-commit/
 
+<---Colaborations--->
+TechLead Show
