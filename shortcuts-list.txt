@@ -61,8 +61,7 @@ margin does not count towards box size
 <border-width; border-style; border-color;> multiple properties. these can be inline in one property.
 <span> Horizontal padding, margins, and borders are respected.
 <display:flex; or display:inline-flex> flex container (inside of div / container)
-<flex:1;>flex items. can have flex within flex.
-Using auto as a flex-basis tells the item to check for a width declaration
+<flex:1 1 auto;> = flex-grow, flex-shrink, flex-basis
 <flex-grow> stretch item to fill available space in container
 <flex-shrink> can become smaller than the flex-basis
 <flex-basis> if set to auto then div size or content's size 
