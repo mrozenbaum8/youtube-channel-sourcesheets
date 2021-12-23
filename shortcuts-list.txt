@@ -60,7 +60,7 @@ Some HTML elements, such as <a>, <span>, <em> and <strong> use inline as their o
 margin does not count towards box size
 <border-width; border-style; border-color;> multiple properties. these can be inline in one property.
 <span> Horizontal padding, margins, and borders are respected.
-<display:flex;>flex container
+<display:flex;> flex container (inside of div / container)
 <flex:1;>flex items. can have flex within flex.
 Using auto as a flex-basis tells the item to check for a width declaration
 <flex-grow>
