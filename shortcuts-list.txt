@@ -70,3 +70,5 @@ margin does not count towards box size
 <align-items> align items vertically
 <flex-wrap> wrap flex containers (similar to word wrap on vscode)
 <flex-flow> combines felx-wrap and flex-flow
+<justify-content> align items on main axis
+<align-items> align items on the cross axis
