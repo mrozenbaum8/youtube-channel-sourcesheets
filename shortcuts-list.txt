@@ -66,8 +66,8 @@ margin does not count towards box size
 <flex-shrink> can become smaller than the flex-basis
 <flex-basis> if set to auto then div size or content's size 
 <flex-direction: column> change from default row direction
-<justify-content> align itmes horizontally
-<align-items> align items vertically
+<justify-content> align items according to flex-direction
+<align-items> align items perpendicular to flex-direction
 <flex-wrap> wrap flex containers (similar to word wrap on vscode)
 <flex-flow> combines felx-wrap and flex-flow
 <justify-content> align items on main axis

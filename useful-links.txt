@@ -1,6 +1,7 @@
 mrozenbaum8's useful links
 
 <---My carreer interests--->
+Machine Learning Engineer: https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189
 Computer vision: https://www.visionary.ai/join-us
 AI-based Video Recognition: https://www.flymingo.net/about-us
 AI-powered video thumbnails: https://minute.ly
