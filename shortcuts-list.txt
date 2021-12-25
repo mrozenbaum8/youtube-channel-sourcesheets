@@ -21,6 +21,8 @@
 <git config -l> check configs of repository
 <git diff filename> view changes to a file since previous commit
 <git add -p> add only part of a change to staging area
+<git remote remove origin> remove remote
+<git remote set-url origin git://new.url.here> Instead of removing and re-adding
 
 <----HTML---->
 <strong> bold
