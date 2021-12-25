@@ -11,6 +11,8 @@ any element can be both a flex container and a flex item
 the main axis vs cross. <flex-direction:row vs column>
 I see myself using this alot: <flex-wrap> wrap flex containers (similar to word wrap on vscode)
 <flex-flow> combines felx-wrap and flex-flow
+first excersise felt like piece of ice cream cake. then I felt confident.
+second excersise felt like getting hit with a hammer in the head
 
 lots of back and forth between OP and MDN: repeating same info. solifity knowledge.
 
