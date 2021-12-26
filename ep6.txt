@@ -21,6 +21,14 @@ lots of back and forth between OP and MDN: repeating same info. solifity knowled
 
 the only easy homework was yesterday's. the only easy assignment was the previous one.
 
+
+again kevin's powells tutorials to the rescue:
+https://www.youtube.com/watch?v=u044iM9xsWU
+
+other resources:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://dev-to-uploads.s3.amazonaws.com/i/gv3jyh4xt4fbwtq1qejn.png
+
 Future:
 I've starting building my curriculum for once I finish my current one.
 I will be making a separate video outside the #100daysofcode series where I show some interesting options.
