@@ -34,5 +34,6 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://dev-to-uploads.s3.amazonaws.com/i/gv3jyh4xt4fbwtq1qejn.png
 
 Future:
+Next I'm starting to learn Javascript
 I've starting building my curriculum for once I finish my current one.
 I will be making a separate video outside the #100daysofcode series where I show some interesting options.
