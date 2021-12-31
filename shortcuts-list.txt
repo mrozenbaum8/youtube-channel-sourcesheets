@@ -102,3 +102,5 @@ if all numbers are strings in an operation then strings will be converted to num
 <const1.toFixed(n)> round const1 to n decimal places
 <Number(stringName)> convert string to number
 <x += 4> x = x + 4
+<== and !=> test whether the values are the same but not whether the values' datatypes are the same
+<=== and !==>test the equality of both the values and their datatypes
