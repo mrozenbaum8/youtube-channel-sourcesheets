@@ -76,4 +76,29 @@ margin does not count towards box size
 <align-items> align items on the cross axis
 
 <---Javascript--->
-
+<console.log()> prints to developer console
+<let variable1 = 'variable1 value';>define the variable + value
+<let variable1;> define variable1 only
+<variable1='value'> define value only
+<let var1 = 'value1', var2='value2', var3='value3';> multiple variables at the same time
+<Variables named apple and AppLE> are two different variables
+<let, class, return, and function> reserved. cannot be used as variable names.
+<"use strict";> compatible only with newer scripts.
+<const variable1 = 'variable1 value';>define a constant variable + value. value cannot be reasigned.
+Use constants as aliases for difficult-to-remember values.
+Make names maximally descriptive and concise. Use human-readable names.
+<**> exponentation
+<%> modulus (division remainder)
+<++> increment
+<--> decrement
+JavaScript Operator Precedence Values
+<number> number
+<'number'> string
+if all numbers are strings in an operation then strings will be converted to numbers except when adding, because <+> is used to concatenate strings.
+<variable1.toString()> output variable1 (numbers) from base 2 to base 36.
+<((x==y))> equal?
+<((x===y))> not equal?
+<typeof variable> what type of variable is it
+<const1.toFixed(n)> round const1 to n decimal places
+<Number(stringName)> convert string to number
+<x += 4> x = x + 4
