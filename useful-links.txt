@@ -27,6 +27,7 @@ Web3
 Blockchain
 Project management: https://www.youtube.com/watch?v=t7EYicEBfdQ
 Nerual networks and infinity theory (ALEPH): https://www.youtube.com/watch?v=9uASADiYe_8
+Open CV: https://www.youtube.com/watch?v=01sAkU_NvOY&t=5351s
 
 <---Research interests--->
 AI: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7387290/
