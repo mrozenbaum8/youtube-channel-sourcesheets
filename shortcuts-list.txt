@@ -4,7 +4,7 @@
 <open> open file
 <mkdir> new folder
 <touch> new file
-<rm -R> delete
+<rm -r> delete
 <open -a "Visual Studio Code"> open files with vcode
 
 <----Git and GitHub---->
