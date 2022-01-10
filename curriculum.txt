@@ -1,4 +1,4 @@
-Hey this curriculum is what I'm using to learn through the  #100daysofcode challenge. My goal is to have enough of a 
+Hey this curriculum is what I'm using to learn through the  #100daysofcode challenge. My goal is to have enough of a foudation to be able to apply to the online BSc in computer science from the university of london.
 
 Foundations (Start here):
 
