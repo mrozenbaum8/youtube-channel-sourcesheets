@@ -40,6 +40,26 @@ Foundations (Start here):
 
 19: Microverse Javascript challenges (do 2 sessions): https://www.notion.so/List-of-Practice-Challenges-e969006c2dff40069eb240538f858912
 
-Ok. I consider the content up until this point a "taste of programming". If your goal was to challenge yourself with learning something new and completing a coding challenge, and you don't necesarrily want to continue with a carreer in programming - then you have suceeded, and you can stop here. If however, you've decided that you want to pursue a career in computer science and you would like to move on learning more advanced topics - see below. 
+Ok. I consider the content up until this point a "taste of programming". If your goal was to challenge yourself with learning something new and completing a coding challenge, and you don't necesarrily want to continue with a carreer in programming - then you have suceeded, and you can stop here. If however, you want to move on learning more advanced topics and you want to pursue a career in computer science - continue below. 
 
 20: Harvard's CS50: https://cs50.harvard.edu/x/2022/new/
+
+21. Choose ONE of the following courses based on your interests: 
+    a. Game development: https://www.edx.org/course/cs50s-introduction-to-game-development
+    b. Artificial intelligence: https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
+    c. Mobile app dev: https://www.edx.org/course/cs50s-mobile-app-development-with-react-native
+    d. Wed programming: https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
+
+At this point you should be able to apply for a paid/unpaid internship at a company or an entry level programming job. If however you would like to pursue a BSc in Computer Science - continue below. Upon successful completion of courses 24-27 (via the validated certificate route) you will be exempt from core modules of the computer science degree (and transfer 60 credits towards your BSc).
+
+23. Math for Computer Science: https://www.coursera.org/learn/mathematics-for-computer-science
+
+24. IT support: https://www.coursera.org/professional-certificates/google-it-support
+
+25. Data Science: https://www.coursera.org/professional-certificates/ibm-data-science
+
+26. Applied AI: https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
+
+27. AI Engineering: https://www.coursera.org/professional-certificates/ai-engineer
+
+28. Apply for the BSc in Computer Science: https://www.coursera.org/degrees/bachelor-of-science-computer-science-london
