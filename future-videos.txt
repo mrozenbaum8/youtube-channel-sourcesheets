@@ -3,3 +3,6 @@ vcode update about working with git. workflow for working on multiple git reposi
 things I learned in 2021. how 2021 changed my life.
 things I learned in 2022.
 It's TOO LATE to get your life together in your 30s
+how I learned JavaScript in 1 day
+how I learned HTML in one day
+how I learned CSS in one day
