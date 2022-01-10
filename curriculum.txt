@@ -40,6 +40,6 @@ Foundations (Start here):
 
 19: Microverse Javascript challenges (do 2 sessions): https://www.notion.so/List-of-Practice-Challenges-e969006c2dff40069eb240538f858912
 
-Ok. I consider the content up until this point a "taste of programming". If your goal was to challenge yourself with learning something new - then you have suceeded. If you liked programing and would like to move on learning more advanced topics see below. 
+Ok. I consider the content up until this point a "taste of programming". If your goal was to challenge yourself with learning something new and completing a coding challenge, and you don't necesarrily want to continue with a carreer in programming - then you have suceeded, and you can stop here. If however, you've decided that you want to pursue a career in computer science and you would like to move on learning more advanced topics - see below. 
 
 20: Harvard's CS50: https://cs50.harvard.edu/x/2022/new/
