@@ -1,1 +1,45 @@
-Hey this curriculum is what I'm using to 
+Hey this curriculum is what I'm using to learn through the  #100daysofcode challenge. My goal is to have enough of a 
+
+Foundations (Start here):
+
+1. Motivation and mindset:  https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/gearing-up
+
+2. How does the web work?: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/how-does-the-web-work
+
+3. Install VS code: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/text-editors
+
+4. Command line basics: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/command-line-basics-web-development-101
+
+5. Setting up git: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git
+
+6. Intro to git: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-git
+
+7. Git basics: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics
+
+8. HTML: https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations
+
+9. CSS: https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations
+
+10. Flexbox: https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox
+
+11. Build 1st project (landing page): https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
+
+12. Javascript 1: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-1
+
+13. Javascript 2: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-2
+
+14. Javascript DevTools: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/developer-tools-2
+
+15: Javascript 3: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-3
+
+16: Clean code: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/clean-code
+
+17: Javascript 4: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-4
+
+18: Javascript project: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors
+
+19: Microverse Javascript challenges (do 2 sessions): https://www.notion.so/List-of-Practice-Challenges-e969006c2dff40069eb240538f858912
+
+Ok. I consider the content up until this point a "taste of programming". If your goal was to challenge yourself with learning something new - then you have suceeded. If you liked programing and would like to move on learning more advanced topics see below. 
+
+20: Harvard's CS50: https://cs50.harvard.edu/x/2022/new/
