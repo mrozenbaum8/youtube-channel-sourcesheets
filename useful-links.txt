@@ -51,6 +51,7 @@ https://devdocs.io/html/
 
 <----Git---->
 How to write good commit messages: https://cbea.ms/git-commit/
+Intermediate tutorial: https://www.youtube.com/watch?v=Uszj_k0DGsg
 
 <---Colaborations--->
 TechLead Show

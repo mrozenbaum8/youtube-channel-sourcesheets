@@ -50,7 +50,10 @@ Ok. I consider the content up until this point a "taste of programming". If your
     c. Mobile app dev: https://www.edx.org/course/cs50s-mobile-app-development-with-react-native
     d. Wed programming: https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
 
-At this point you should be able to apply for a paid/unpaid internship at a company or an entry level programming job. If however you would like to pursue a BSc in Computer Science - continue below. Upon successful completion of courses 24-27 (via the validated certificate route) you will be exempt from core modules of the computer science degree (and transfer 60 credits towards your BSc).
+At this point you should be able to apply for a paid/unpaid internship at a company or an entry level programming job. 
+Prepare for coding interviews: https://leetcode.com
+
+If however you would like to pursue a BSc in Computer Science - continue below. Upon successful completion of courses 24-27 (via the validated certificate route) you will be exempt from core modules of the computer science degree (and transfer 60 credits towards your BSc).
 
 23. Math for Computer Science: https://www.coursera.org/learn/mathematics-for-computer-science
 
