@@ -40,6 +40,7 @@ AI: https://www.youtube.com/watch?v=YsEp2-59HjA
 <----Motivation---->
 Coding success story: https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/
 Perfectionism is a mask we wear when we're afraid of failure: https://www.youtube.com/watch?v=bRtBHF-WPpM
+Making decisions based on wishful thinking: https://smokinghopium.io
 
 <---My curriculum (learning terminal, Git, HTML, CSS, Plex and Javascript)--->
 Microverse pre-coursework: https://support.microverse.org/en/articles/2946210-what-is-the-microverse-pre-course-work
