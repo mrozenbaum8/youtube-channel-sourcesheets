@@ -8,6 +8,8 @@ AI-powered video thumbnails: https://minute.ly
 Global alliance of companies developing computer vision and edgeAI: https://www.edge-ai-vision.com
 Data engineer: https://www.comeet.com/jobs/thetaray/72.00F/data-engineer/3F.82A
 Internship in data science: https://www.spectrumlabsai.com/careers
+ML roadmap: https://www.youtube.com/watch?v=pHiMN_gy9mk
+
 
 <---My learning interests-->
 Python: https://www.udemy.com/course/100-days-of-code/
@@ -71,3 +73,6 @@ TechLead Show
 <---Flexbox--->
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://dev-to-uploads.s3.amazonaws.com/i/gv3jyh4xt4fbwtq1qejn.png
+
+<---Vlogging--->
+Ultimate setup: https://www.youtube.com/watch?v=9hWvN01bEPY
