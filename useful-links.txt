@@ -42,6 +42,8 @@ Design theory: https://www.edx.org/course/design-theory
 Surveillance: https://zoneminder.com , https://www.youtube.com/watch?v=Us20t1gQPOE
 Tensors: https://www.youtube.com/watch?v=f5liqUk0ZTw
 Ternsorflow: https://www.youtube.com/watch?v=tpCFfeUEGs8
+Python: https://www.coursera.org/specializations/python
+Python: https://www.udemy.com/course/100-days-of-code/
 
 <---Research interests--->
 AI: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7387290/
