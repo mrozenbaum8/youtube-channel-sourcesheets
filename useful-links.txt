@@ -46,6 +46,8 @@ Python: https://www.coursera.org/specializations/python
 Python: https://www.udemy.com/course/100-days-of-code/
 Adblocking: https://www.youtube.com/watch?v=KBXTnrD_Zs4
 Blockchain: https://www.youtube.com/watch?v=Ozl-zeJCBKU
+2021 Developer survey: https://insights.stackoverflow.com/survey/2021#overview
+
 
 <---Research interests--->
 AI: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7387290/
