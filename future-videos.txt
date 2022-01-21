@@ -1,5 +1,6 @@
 vcode update about working with git. workflow for working on multiple git repositories at the same time. this took me a while to figure out (longer than homework I was working on). I devised current workflow. Explain it. If you have a better way of doing this lemme know.
 30 years old - I wasted my 20s. The mistakes I made that you can avoid| How to level up in your 20s.
+Making up for lost time in my 30s because I wasted my 20s
 things I learned in 2021. how 2021 changed my life.
 things I learned in 2022.
 It's TOO LATE to get your life together in your 30s
