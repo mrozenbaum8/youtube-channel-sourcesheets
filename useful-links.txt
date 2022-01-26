@@ -80,5 +80,8 @@ TechLead Show
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://dev-to-uploads.s3.amazonaws.com/i/gv3jyh4xt4fbwtq1qejn.png
 
+<---JavaScript--->
+String reference: https://www.w3schools.com/jsref/jsref_obj_string.asp
+
 <---Vlogging--->
 Ultimate setup: https://www.youtube.com/watch?v=9hWvN01bEPY
