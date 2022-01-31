@@ -98,7 +98,8 @@ if all numbers are strings in an operation then strings will be converted to num
 <variable1.toString()> output variable1 (numbers) from base 2 to base 36.
 The binary + is the only operator that supports strings.
 <((x==y))> equal?
-<((x===y))> not equal?
+<((x===y))> checks the equality without type conversion
+<!==> checks the inequality without type conversion
 <typeof variable> what type of variable is it
 <const1.toFixed(n)> round const1 to n decimal places
 <Number(stringName)> convert string to number
@@ -127,3 +128,7 @@ The binary + is the only operator that supports strings.
 <text1.split(",")> Split on commas
 <text1.split(" ")> Split on spaces
 <text1.split("|")> Split on pipe
+<|| (OR), && (AND), ! (NOT), ?? (Nullish Coalescing)> logical operators
+<||> Finds the first truthy value from a list of variables or expressions. Short-circuit evaluation.
+<&&> finds the first falsy value. When all values are truthy, the last value is returned.
+<! (NOT)> returns inverse value. The precedence of NOT ! is the highest of all logical operators, so it always executes first, before && or ||.
