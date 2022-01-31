@@ -12,6 +12,7 @@ ML roadmap: https://www.youtube.com/watch?v=pHiMN_gy9mk
 
 
 <---My learning interests-->
+Learn any language: https://exercism.org/
 Python: https://www.udemy.com/course/100-days-of-code/
 Computer vision: https://www.pyimagesearch.com/start-here/
 Deep learning: https://www.udemy.com/course/computer-vision-a-z/?gclid=CjwKCAiA-9uNBhBTEiwAN3IlNMIj_S32kcw2-XGSoqpo0fzu5_xCrjjdKlFWIrEF1b8GpJu9WajUZhoCA14QAvD_BwE&matchtype=e&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_78754137973_._ad_535700228131_._kw_computer+vision+class_._de_c_._dm__._pl__._ti_kwd-823898374488_._li_1007978_._pd__._
@@ -85,3 +86,6 @@ String reference: https://www.w3schools.com/jsref/jsref_obj_string.asp
 
 <---Vlogging--->
 Ultimate setup: https://www.youtube.com/watch?v=9hWvN01bEPY
+
+<---Templates--->
+HTML: https://html5up.net
