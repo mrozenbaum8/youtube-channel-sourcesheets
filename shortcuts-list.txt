@@ -6,6 +6,7 @@
 <touch> new file
 <rm -r> delete
 <open -a "Visual Studio Code"> open files with vcode
+<./filename> run filename (as program)
 
 <----Git and GitHub---->
 <git --version>
