@@ -134,3 +134,6 @@ The binary + is the only operator that supports strings.
 <&&> finds the first falsy value. When all values are truthy, the last value is returned.
 <! (NOT)> returns inverse value. The precedence of NOT ! is the highest of all logical operators, so it always executes first, before && or ||.
 <( condition ) ? run this code : run this code instead> ternary operator. instead of if...else.
+
+<---C---->
+<make filename> compile filename
