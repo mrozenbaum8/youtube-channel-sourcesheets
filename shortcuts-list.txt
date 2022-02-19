@@ -7,6 +7,7 @@
 <rm -r> delete
 <open -a "Visual Studio Code"> open files with vcode
 <./filename> run filename (as program)
+<code filename> create new filename and open in vs code
 
 <----Git and GitHub---->
 <git --version>
