@@ -4,7 +4,7 @@
 
 - After installing localwp on your Mac, install local website on computer.
 - While installing the website on computer, select “advanced options” during the installation process make sure the web server is set to Apache.
-- Execute most other settings as per on-screen instructions.  Upload the plugin file instead of installing the all-in-one plugin via the plugin store: [https://drive.google.com/file/d/1hBsJfzN6QNZIcAwyAUwvq7WCiR3yra2i/view?usp=sharing](https://drive.google.com/file/d/1hBsJfzN6QNZIcAwyAUwvq7WCiR3yra2i/view?usp=sharing)
+- Execute most other settings as per on-screen instructions.  Upload the plugin file instead of installing the all-in-one plugin via the plugin store: [https://github.com/mrozenbaum8/youtube-channel-sourcesheets/blob/main/all-in-one-wp-migration-6.7.zip]
 
 ### Increase max upload size:
 
