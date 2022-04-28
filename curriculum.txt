@@ -75,3 +75,10 @@ Dr Chucks approach: https://www.youtube.com/watch?v=z3o6yEzcnLc
 Get Cisco's CCENT, CCNA, CCNP, CCIE.
 Find a mentor.
 Get a Job.
+
+Random Courses:
+Architecture: https://www.edx.org/course/the-architectural-imagination?index=product&queryID=fa8f2caf21df64850143eebeb5a5e725&position=1
+Data Science for Architecture: https://www.edx.org/course/Data-Science-for-Construction-Architecture-and-Engineering?index=product&queryID=fa8f2caf21df64850143eebeb5a5e725&position=2
+Intro to civil building and works: https://www.edx.org/course/introduccion-a-los-encofrados-y-las-cimbras-en-obr?index=product&queryID=fa8f2caf21df64850143eebeb5a5e725&position=4
+
+IBM Full Stack: https://www.edx.org/professional-certificate/ibm-full-stack-cloud-developer?index=product&queryID=a58172a4031564ffc90da1d2366b4610&position=8
