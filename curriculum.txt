@@ -91,3 +91,4 @@ Financial Literacy: https://www.edx.org/professional-certificate/iux-personal-fi
 
 Hands-on AI: https://www.edx.org/professional-certificate/deep-learning
 
+Computational neuroscience: https://www.youtube.com/watch?v=MhF3R_0LWbk
