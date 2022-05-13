@@ -9,7 +9,7 @@ Global alliance of companies developing computer vision and edgeAI: https://www.
 Data engineer: https://www.comeet.com/jobs/thetaray/72.00F/data-engineer/3F.82A
 Internship in data science: https://www.spectrumlabsai.com/careers
 ML roadmap: https://www.youtube.com/watch?v=pHiMN_gy9mk
-
+Inertial navigation: https://www.cielo-inertial.com/
 
 <---My learning interests-->
 Learn any language: https://exercism.org/
