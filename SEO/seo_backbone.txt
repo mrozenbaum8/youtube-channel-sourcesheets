@@ -21,15 +21,21 @@ What do I mean by this? Example:
 
 Video 2: SEO Beginner Tutorial Part 2: Blueprint
 
-1. Make sure you have a list of actionable keywords for that your want to focus on your website. If you don't check the previous video in this series, where I detail how you can comeup with the correct set of keywords.
+1. Make sure you have a list of actionable keywords for that your want to focus on your website. If you don't check the previous video in this series, where I detail how you can comeup with the correct set of keywords. The goal of keywords is to align your website's content to the result youre tring to achieve whether that is getting sales, or providing useful information for people. So if you don't have this in place - check out my previous video.
 
-2. As I mentioned in the previous, once you have your keywords the first step is to organize them into themes. What do I mean by themes? This can be done in a spreadsheet.
+2. As I mentioned in the previous video, once you have your keywords the first step is to organize them into themes. What do I mean by themes? This can be done in a spreadsheet.
 
-3. Once you have that its time to start making the blueprint in figjam. The idea is to map out your website.
+3. Once you have that its time to start making the blueprint in figjam. The idea is to sitemap your website.
+
+4. Now that we have a basic structure, we can start adding the <H1> and <H2>. The litmus test is to invert them. Be as precise as possible. See what your competitors are doing.
+
+5. 
 
 Video 3: SEO Wordpress Tutorial Part 3: Website Publish
 
-Video 4: SEO Wordpress Tutorial Part 4: Optimization
+1. Once you have your blueprint. There is no point in doing this wirthout a blueprint. Refer to my previous video 
+
+Video 4: Beginner Landing Page Optimization Tutorial
 
 1. Sales vs Consults
 Sales have an extrinsic value service determined by the marketplace. Product page includes a high level of practical detail. Very little emotional focus. Not about the value to the customer; it’s about the features of the product. Price is the greatest determinant in a commoditized world.
