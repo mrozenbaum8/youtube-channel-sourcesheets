@@ -1,1 +1,117 @@
-1. Know 
+Video 1: SEO Beginner Tutorial | Part 1: Foundations (Thumbnail: Wordpress logo, FAST)
+
+This will be a practical guide for people who are busy with their life. Who are looking to get SEO right for their website. But are not looking into becoming experts in the topic just to get the foundations right.
+
+Talk about my experience and why my approach is unique.
+
+By the end of this video you will come out with the correct list of keywords that you need for your website to succeed with SEO. Its not gonna be magic, its gonna be a methodic formula for firguring out what works for your specific case. There is no template for this everyone's needs are unique. This is video 1 of a 3 part series, and in the next video I will show you how to use these keywords to build your website around them.
+
+So lets get into this video:
+
+1. What are you trying to achieve? Is your website trying to provide information for visitors? Are you selling something? This needs to be well defined before you start.
+
+2. The goal of SEO is to align your website with a cohesive set of search terms that target your website's intended purpose.
+What do I mean by this? Example: 
+
+3. Search terms have a hierarchy. Show buyer intention funnel with example.
+
+4. Different tools to find the "cohesive keywords": google search, google keyword planner, competitive analysis.
+
+5. Putting it all together. Group keywords by theme. Preview to the next video.
+
+Video 2: SEO Beginner Tutorial Part 2: Blueprint
+
+1. Make sure you have a list of actionable keywords for that your want to focus on your website. If you don't check the previous video in this series, where I detail how you can comeup with the correct set of keywords.
+
+2. As I mentioned in the previous, once you have your keywords the first step is to organize them into themes. What do I mean by themes? This can be done in a spreadsheet.
+
+3. Once you have that its time to start making the blueprint in figjam. The idea is to map out your website.
+
+Video 3: SEO Wordpress Tutorial Part 3: Website Publish
+
+Video 4: SEO Wordpress Tutorial Part 4: Optimization
+
+1. Sales vs Consults
+Sales have an extrinsic value service determined by the marketplace. Product page includes a high level of practical detail. Very little emotional focus. Not about the value to the customer; it’s about the features of the product. Price is the greatest determinant in a commoditized world.
+2. Consultative leans more toward the emotional payoffs to the customer. Intrinsic value system based on the perceiver value of the client/customer and the self determined value of the agency or seller.
+
+Clarity
+h1: what do you do?
+h2: why does your client need it?
+Where am I? Have a headline!
+How do I get back? How do I find what I’m looking for? How do I get help?
+Can I self select?
+5 second test - don’t make me think
+Things should be self evident and/or self explanatory.
+Have your customers write your headline for you
+CTA
+Have a CTA above the fold
+Support it with your page headline
+Be cognizant of user’s attention ratio
+Don’t make users hunt for it (above the fold if possible)
+Set expectations (no cc required, free download, etc)
+“I want to...”
+Respect the action block
+Readability
+Omit unnecessary words. Be helpful. Format your text for scanning.
+Bullet points and bolded key terms.
+Use visual cues to organize thematically related text elements.
+Format your headings properly.
+Put the important stuff on top.
+Hide longer paragraphs in tabs and in popovers.
+Avoid jargon. Be factual and objective.
+Web conventions
+Logo on the top left links to the homepage.
+Main navigation bar on the top to top right. Subcategory navigation bar on the middle left of the page. Utility links (Careers, FAQs etc) on the top top and smaller.
+Bigger text should be the most important; it will draw attention first.
+Search bar on the middle of the page or at right of the nav bar.
+Free means free.
+Clearly define header and footer.
+Images
+#1 component that will give visitors a good first impression.
+Can your image replace text? Can it describe your target market, price point and level of expertise?
+Icons and thumbnails create a sense of structure, cohesiveness and organization.
+Use high quality images (avoid stock photos whenever possible)
+Relevance to product and services. Bonus points for evoking emotion.
+Don’t let the image distract the user from reading text.
+Video
+When done right it can have a huge impact on conversion rate.
+Appeals to visual and auditory learners.
+Don’t autoplay your videos - it's just annoying.
+High production quality.
+Keep it short and simple.
+Relevant and informative.
+Be careful with bandwidth and mobile devices.
+Best to host with 3rd party hosting providers like YouTube, Vimeo or Wistia.
+Embedding videos in a lightbox usually works well.
+Information architecture and accessibility
+Get your navigation right. Consistency and intuitiveness. Visitors should always be one click away from home.
+Trust
+Transactional Assurances: subtle design elements counteract innate anxiety. Needs to be prominent before the conversion action.
+Demos and Free Trials
+Guarantees and Policies. Privacy Policy. Return Shipping. Payment method icons. Price match guarantees.
+Safety Logos: Google trusted store. Norton Secured. BBB Rating. Awards and Prizes.
+Social Identity and Customer Reviews
+The Many: Objective numbers indicate leadership in a given space (can be a specific number or general like “most people” etc).
+The Comparable:The more you identify with another, the more likely you are to be influenced by them.
+The key to testimonials' effect is to create a sense of identity.
+Persuasion (Scarcity)
+Scarcity creates a sense of urgency.
+People would rather make a quick decision than risk missing out on a deal.
+Can be time-driven (deadlines) or quantity-driven (availability).
+Do it tactfully. Be specific. Be believable. Be subtle about it.
+Reciprocal Concessions and Reciprocity
+Anchoring and pricing. People are more likely to accept an offer if presented first with a more expensive option.
+Engendering and Indebtedness
+Chocolate waiter
+Don’t have strings attached, don’t ask for anything in return
+Free advice, free tools, trials, content previews, free resources, ebooks and white-papers, consultations, audits.
+Tests
+Headlines
+Form Fields
+Offers/Promotions
+Call to Action Text
+Images/Video
+Keep previous SEO rankings
+Keep The Same URLs or 301 Redirect
+Keep same content
