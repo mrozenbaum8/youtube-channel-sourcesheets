@@ -54,7 +54,7 @@ At this point you should be able to apply for a paid/unpaid internship at a comp
 Prepare for coding interviews (brush up on data structures and algorithms): https://www.coursera.org/specializations/data-structures-algorithms and https://leetcode.com 
 
 
-Follow up with Algorithms and Data Structures: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/
+Or follow up with a proper Algorithms and Data Structures course: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/
 
 or Princeton's version: https://online.princeton.edu/algorithms-part-i
 
