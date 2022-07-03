@@ -56,29 +56,6 @@ free -m
 echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab 
 3. To check swap file: Type in htop
 
-## Login to myPHPadmin
-
-1. Open SSH in browser window.
-2. Paste sudo sed -n 1p /home/ubuntu/.db_password
-3. Go to mydomain.com/phpmyadmin
-4. Paste password obtained from SSH window with username “root” to login.
-
-## Increase max_upload_size limit
-
-1. Open SSH in browser window.
-2. Paste sudo -i
-3. Navigate to php.ini location try Paste cd /usr/local/lsws/lsphp74/etc/php/7.4/litespeed/ else you can cd to location manually.
-4. Paste vi php.ini
-5. Type / post_max
-6. Press “enter” to edit
-7. Press “insert “button to input.
-8. Change value to 90.
-9. Type // 69
-10. Change upload_max_filesize to 90.
-11. Press esc
-12. Type :wq! to save changes.
-13. Reestart php by pasting killall -9 lsphp
-
 ## Change upload limit
 
 1. Go to **Plugin editor** from the left menu panel in the admin dashboard.
