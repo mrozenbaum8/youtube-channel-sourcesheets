@@ -103,3 +103,6 @@ Financial Literacy: https://www.edx.org/professional-certificate/iux-personal-fi
 Hands-on AI: https://www.edx.org/professional-certificate/deep-learning
 
 Computational neuroscience: https://www.youtube.com/watch?v=MhF3R_0LWbk
+
+Networking on a boat: https://seabits.com/whats-on-your-boat-server/
+More: https://www.reddit.com/r/networking/comments/3xmndq/server_on_a_boat/
