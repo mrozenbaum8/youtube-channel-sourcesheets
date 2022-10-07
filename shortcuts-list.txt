@@ -143,3 +143,6 @@ The binary + is the only operator that supports strings.
 <%i, i> placeholder for int
 <int* pa, *pb, *pc> intitiate multiple pointers at once.
 always check for NULL after calling malloc()
+
+<---Linux--->
+<sudo -i> temporarily login as root user
