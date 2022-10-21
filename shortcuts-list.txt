@@ -152,6 +152,8 @@ always check for NULL after calling malloc()
 <sudo apt-get dist-upgrade> update packages 3 (optional)
 <sudo reboot now> reboot server
 <sudo shutdown> shutdown server
+<df -h> list all partitions.
+<sudo mount /dev/sdb1 /mnt/media> mount drive into location
 
 <----Docker---->
 <systemctl start docker
