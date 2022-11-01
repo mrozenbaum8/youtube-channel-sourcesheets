@@ -156,6 +156,32 @@ always check for NULL after calling malloc()
 <sudo mount /dev/sdb1 /mnt/media> mount drive into location
 
 <----Docker---->
-<systemctl start docker
-systemctl enable docker> use when user not in docker group, else:
+<systemctl start docker>
+<systemctl enable docker> use when user not in docker group, else:
 <sudo chmod 666 /var/run/docker.sock> use when user not in docker group
+
+<---Sambashare--->
+<sudo apt update>
+<sudo apt install samba>
+<smbd --version>
+<sudo vim /etc/samba/smb.conf> setup file
+<[sambashare]
+comment= Network Shared Folder by Samba Server on Ubuntu
+path = /home/your_username/sambashare
+force user = smbuser
+force group = smbgroup
+create mask = 0664
+force create mode = 0664
+directory mask = 0775
+force directory mode = 0775
+public = yes
+read only = no>
+<echo $USER> update permisions
+<mkdir -p sambashare> make shared directory, as per specified in cofig file
+<sudo groupadd --system smbgroup>
+<sudo useradd --system --no-create-home --group smbgroup -s /bin/false smbuser>
+<sudo chown -R smbuser:smbgroup ~/sambashare> change folder owner
+<sudo chmod -R g+w ~/sambashare>
+<sudo systemctl restart smbd>
+<sudo systemctl status smbd>
+<sudo ufw enable samba> use if problems encoutered
