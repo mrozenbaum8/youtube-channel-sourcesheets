@@ -16,6 +16,7 @@
 <git status> depository status
 <git add> add file to staging area before commiting
 <git commit -m "comment here"> commit files to depository with comment
+<git commit -am "comment here"> add and commit all changed files
 <git log> view commit history
 <git push> Publish repository to github
 <git add -A> add all untracked files
