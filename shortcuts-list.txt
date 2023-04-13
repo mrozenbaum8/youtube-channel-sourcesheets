@@ -22,10 +22,17 @@
 <git add -A> add all untracked files
 <git remote -v> list existing remotes
 <git config -l> check configs of repository
+<git reset --hard "commit_hash"> get back to older state of repository
+<git reset --hard origin/master> get back to older state of repository
 <git diff filename> view changes to a file since previous commit
 <git add -p> add only part of a change to staging area
 <git remote remove origin> remove remote
 <git remote set-url origin git://new.url.here> Instead of removing and re-adding
+<git branch> which branch I am currently on, plus lists all branches in repository
+<git checkout -b "new_branch_name"> create new branch
+<git checkout "master"> switch to main branch
+<git merge "style"> merges "style" branch to current branch
+
 
 <----HTML---->
 <strong> bold
