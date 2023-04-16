@@ -193,3 +193,7 @@ read only = no>
 <sudo systemctl restart smbd>
 <sudo systemctl status smbd>
 <sudo ufw enable samba> use if problems encoutered
+
+<---------Django--------->
+<django-admin startproject PROJECT_NAME> start new django project
+<python3 manage.py runserver> start django application 
