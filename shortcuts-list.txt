@@ -196,4 +196,5 @@ read only = no>
 
 <---------Django--------->
 <django-admin startproject PROJECT_NAME> start new django project
-<python3 manage.py runserver> start django application 
+<python3 manage.py runserver> start django project 
+<python3 manage.py startapp NAME> create new django app
