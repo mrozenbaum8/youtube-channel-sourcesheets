@@ -198,3 +198,4 @@ read only = no>
 <django-admin startproject PROJECT_NAME> start new django project
 <python3 manage.py runserver> start django server (inside project directory)
 <python3 manage.py startapp NAME> create new app (within django project)
+<python3 manage.py migrate> create all the default tables inside database
