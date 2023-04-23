@@ -199,3 +199,10 @@ read only = no>
 <python3 manage.py runserver> start django server (inside project directory)
 <python3 manage.py startapp NAME> create new app (within django project)
 <python3 manage.py migrate> create all the default tables inside database
+
+<--------CiscoRouter--------->
+<enable> log into root access
+<configure terminal> enter configuration
+<hostname NAME> set hostname to NAME
+<interface gigabitEthernet 0/0/0/> select interface 0
+<no shut> turn interface on
