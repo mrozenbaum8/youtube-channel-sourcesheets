@@ -200,9 +200,16 @@ read only = no>
 <python3 manage.py startapp NAME> create new app (within django project)
 <python3 manage.py migrate> create all the default tables inside database
 
-<--------CiscoRouter--------->
-<enable> log into root access
-<configure terminal> enter configuration
+<--------Cisco--------->
+<enable> log into privileged mode (root access)
+<configure terminal> enter global configuration
+<conf t> enter global configuration (fast command)
 <hostname NAME> set hostname to NAME
 <interface gigabitEthernet 0/0/0/> select interface 0
 <no shut> turn interface on
+<ip address 10.0.0.1 255.255.255.0> add ip/subnet for current selected interface
+<end> back to privileged mode
+<copy running-config startup-config> save running configuration
+<wr> save running configuration (fast command)
+<sh ip int brief> see router ip
+
