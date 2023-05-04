@@ -202,6 +202,12 @@ read only = no>
 <{% condition %}> html start condition (if, for)
 <{% endcondition %}> html end condition (if, for)
 <{{ variable }}> html variable
+<{% block NAME %}> start html template area
+<{% endblock %}> end html template area
+<{% extends "templates/folder/layout.html" %}> inherit layout.html template
+<{% block NAME %}> start add area (current html)
+<{% endblock %}> end add area (current html)
+<{% url 'add' %}> href to url of 'add'
 
 <--------Cisco--------->
 <enable> log into privileged mode (root access)
