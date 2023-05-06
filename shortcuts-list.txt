@@ -207,7 +207,8 @@ read only = no>
 <{% extends "templates/folder/layout.html" %}> inherit layout.html template
 <{% block NAME %}> start add area (current html)
 <{% endblock %}> end add area (current html)
-<{% url 'add' %}> href to url of 'add'
+<app_name = "tasks"> uniquely identify urls. from urls.py
+<{% url 'app:route' %}> href to url of 'route' from 'app'
 
 <--------Cisco--------->
 <enable> log into privileged mode (root access)
