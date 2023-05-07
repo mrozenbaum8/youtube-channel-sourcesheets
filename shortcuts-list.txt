@@ -209,6 +209,14 @@ read only = no>
 <{% endblock %}> end add area (current html)
 <app_name = "tasks"> uniquely identify urls. from urls.py
 <{% url 'app:route' %}> href to url of 'route' from 'app'
+<{% csrf_token %}> insert csrf validation for post requests (in html pages)
+<class NewTaskForm(forms.Form)> create new task template (input fields only)
+<if request.method == "POST"> check for request method
+<if form.is_valid()> check for valid form request
+<form.cleaned_data["FIELD"]> extract FIELD data value only
+<return HttpResponseRedirect(reverse("APP:PAGE"))> redirect to page from app (let Django figure out the url of the route (using name="" from urls.py))
+<request.session> a dict containing all the session's data
+{% empty %} if loop is empty, display alt message (in html).
 
 <--------Cisco--------->
 <enable> log into privileged mode (root access)
