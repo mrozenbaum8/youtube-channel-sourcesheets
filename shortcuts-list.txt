@@ -200,6 +200,9 @@ read only = no>
 <python3 manage.py startapp NAME> create new app (within django project)
 <python3 manage.py makemigrations> update database to include new models
 <python3 manage.py migrate> create all the default tables inside database
+<python3 manage.py shell> enter shell to run python commands
+<models.CASCADE> delete associated data from table
+<models.PROTECT> don't delete associated data from table
 <{% condition %}> html start condition (if, for)
 <{% endcondition %}> html end condition (if, for)
 <{{ variable }}> html variable
