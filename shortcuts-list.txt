@@ -218,6 +218,14 @@ read only = no>
 <request.session> a dict containing all the session's data
 {% empty %} if loop is empty, display alt message (in html).
 
+<-------SQL-------->
+<touch name.sql> create sql file in terminal
+<CREATE TABLE name (id INTERGER PRIMARY KEY AUTOINCREMENT, other data...);> create sql table
+<INSERT INTO tablename (column1, column2) VALUES ("value1", value2);> insert data into table
+<SELECT * FROM name;> get all data from table
+<SELECT column1, column2 FROM table;> get all data from table
+<SELECT * FROM name WHERE id = 3;> get data from all columns from row 3
+
 <--------Cisco--------->
 <enable> log into privileged mode (root access)
 <configure terminal> enter global configuration
