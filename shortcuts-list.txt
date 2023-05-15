@@ -220,11 +220,22 @@ read only = no>
 
 <-------SQL-------->
 <touch name.sql> create sql file in terminal
+<sqlite3 name.sql> run sql file in terminal
+<.tables> show all tables in database
 <CREATE TABLE name (id INTERGER PRIMARY KEY AUTOINCREMENT, other data...);> create sql table
 <INSERT INTO tablename (column1, column2) VALUES ("value1", value2);> insert data into table
 <SELECT * FROM name;> get all data from table
+<.mode columns> put database into column mode
+<.headers yes> activate table headers
 <SELECT column1, column2 FROM table;> get all data from table
 <SELECT * FROM name WHERE id = 3;> get data from all columns from row 3
+<SELECT * FROM table WHERE column1 IN ("value1", "value2");>
+<SELECT * FROM table WHERE column1 LIKE "%a%";> get data where there is an a in column1
+<UPDATE table SET column2 = value1 WHERE column1 = value2 AND column3 = value3;> update values on table
+<DELETE FROM table WHERE column = "value1";> delete row that fills column condition
+<LIMIT, ORDER BY, GROUP BY, HAVING> other clauses
+<CREATE INDEX name_index ON table (column);>
+
 
 <--------Cisco--------->
 <enable> log into privileged mode (root access)
