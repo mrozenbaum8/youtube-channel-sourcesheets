@@ -203,6 +203,7 @@ read only = no>
 <python3 manage.py shell> enter shell to run python commands
 <models.CASCADE> delete associated data from table
 <models.PROTECT> don't delete associated data from table
+<Table.objects.filter(column="value")>
 <{% condition %}> html start condition (if, for)
 <{% endcondition %}> html end condition (if, for)
 <{{ variable }}> html variable
