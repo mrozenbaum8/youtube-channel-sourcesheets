@@ -203,7 +203,11 @@ read only = no>
 <python3 manage.py shell> enter shell to run python commands
 <models.CASCADE> delete associated data from table
 <models.PROTECT> don't delete associated data from table
-<Table.objects.filter(column="value")>
+<TableName.objects.all()> get all data from table
+<Table.objects.filter(column="value")> get all values that fulfill condition
+<Table.objects.filter(column="value").first()> get first value
+<Table.objects.get(column="value")> use only if you know only one value exists
+<object.related_name.all()> get all instances
 <{% condition %}> html start condition (if, for)
 <{% endcondition %}> html end condition (if, for)
 <{{ variable }}> html variable
