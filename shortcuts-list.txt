@@ -220,6 +220,7 @@ read only = no>
 <{% endblock %}> end add area (current html)
 <app_name = "tasks"> uniquely identify urls. from urls.py
 <{% url 'app:route' %}> href to url of 'route' from 'app'
+{% url 'route' parameter %} href to url of 'route' with arguments
 <{% csrf_token %}> insert csrf validation for post requests (in html pages)
 <class NewTaskForm(forms.Form)> create new task template (input fields only)
 <if request.method == "POST"> check for request method
