@@ -208,8 +208,10 @@ read only = no>
 <Table.objects.filter(column="value").first()> get first value
 <Table.objects.get(column="value")> use only if you know only one value exists
 <object.related_name.all()> get all instances
+<python3 manage.py createsuperuser> create admin account in terminal
 <{% condition %}> html start condition (if, for)
 <{% endcondition %}> html end condition (if, for)
+<{% empty %}> default value if condition empty
 <{{ variable }}> html variable
 <{% block NAME %}> start html template area
 <{% endblock %}> end html template area
