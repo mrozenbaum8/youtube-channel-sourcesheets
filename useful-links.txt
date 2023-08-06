@@ -92,3 +92,19 @@ HTML: https://html5up.net
 
 <---AI--->
 Create documentation: scribe.ai
+
+<---Shortcuts--->
+Create templates that can be used as chrome extension: getmagical.com
+
+<---Design--->
+Like Figma but less designer oriented: miro boards
+
+
+<---Collaboration--->
+Freehand
+Jira
+Gitlab
+
+<---VSCode extensions--->
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
