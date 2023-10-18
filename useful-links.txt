@@ -108,3 +108,8 @@ Gitlab
 <---VSCode extensions--->
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+<---Django Deployment--->
+https://www.youtube.com/watch?v=uiPSnrE6uWE
+https://www.youtube.com/watch?v=7O1H9kr1CsA
+https://www.youtube.com/watch?v=980gAjwR44I
